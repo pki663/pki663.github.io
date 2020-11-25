@@ -45,6 +45,8 @@ author:
   email:               novelmaterial@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  social:
+    youtube: https://www.youtube.com/channel/UCshFIdyxC97f0S7uZZyI4RA
 
 # Add links to the sidebar.
 menu:
